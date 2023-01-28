@@ -8,3 +8,4 @@ Uses [PRPAL lib](https://github.com/golemparts/rppal) and components from SunFou
 3. [Flowing LED array](src/bin/flowing_leds.rs)
 4. [Breathing LED](src/bin/breathing_led.rs) (PWM)
 5. [RGB LED](src/bin/rgb_led.rs) (Soft PWM)
+6. [Active Buzzer](src/bin/buzzer.rs)
